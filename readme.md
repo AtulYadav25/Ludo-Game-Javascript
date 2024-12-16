@@ -16,7 +16,7 @@ A single-player Ludo game built entirely with JavaScript! Play against smart bot
 
 ## Demo
 
-[Click here to see the live demo](https://atulyadav25.github.io/Ludo-Game-Javascript/) (Replace with live link if available)
+[Click here to see the live demo](https://atulyadav25.github.io/Ludo-Game-Javascript/)
 
 ---
 
