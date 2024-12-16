@@ -381,3 +381,13 @@ canvas{
     background: #00acff;
     border-color: #00acff;
 }
+
+#cp{
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    z-index: 1000;
+    color: white;
+    font-family: 'Poppins';
+    transform: translateX(-50%);
+}
